@@ -1,5 +1,11 @@
 # II1302
-This is the C code for the project that I did in the course II1302 at KTH Kista together with Arthur Simonsson, Botan Cosar and Sebastian Thunberg. The code was written in CubeMX which generated initialization code for the peripherals according to our specifications. I wrote most of the code for the ESP8266 as well as the main project program which contains the super loop. I also did most of the initialization for the peripherals. 
+This is the C code for the project that I did in the course II1302 at KTH Kista together with Arthur Simonsson, Botan Cosar and Sebastian Thunberg. The code was written in CubeMX which generated initialization code for the peripherals according to our specifications. I wrote most of the code for the ESP8266 as well as the main project program which contains the super loop. I also did most of the initialization for the peripherals. The interesting files are in 
+II1302/Door Kommunication/Core/Src/ and 
+II1302/Door Kommunication/Core/Inc/
+
+The code most likely can not connect to the server because one guy from the group needs to have it up and running on his PC for it to work.
+
+
 
 ## Hardware
 - Microcontroller: STM32L476G Discovery
